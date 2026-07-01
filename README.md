@@ -16,21 +16,34 @@ Repository ini dibuat sebagai dokumentasi perkembangan pemahaman saya terhadap k
 Nama  : Daffa Wahyu Prayudha
 NIM   : 24.83.1057
 
+## Struktur Repository
+
+```text
 learning-journal/
+│
 ├── README.md
 ├── week-01/
-│   └── README.md
+│   ├── README.md
+│   └── assets/
 ├── week-02/
-│   └── README.md
+│   ├── README.md
+│   └── assets/
 ├── week-03/
-│   └── README.md
+│   ├── README.md
+│   └── assets/
 ├── week-04/
-│   └── README.md
+│   ├── README.md
+│   └── assets/
 ├── week-05/
-│   └── README.md
+│   ├── README.md
+│   └── assets/
 ├── week-06/
-│   └── README.md
+│   ├── README.md
+│   └── assets/
 ├── week-07/
-│   └── README.md
+│   ├── README.md
+│   └── assets/
 └── week-08/
-    └── README.md
+    ├── README.md
+    └── assets/
+```
