@@ -17,40 +17,20 @@ Nama  : Daffa Wahyu Prayudha
 NIM   : 24.83.1057
 
 learning-journal/
-│
 ├── README.md
-│
-├── week01/
-│   ├── README.md
-│   └── assets/
-│       └── materi-minggu1.png (opsional)
-│
-├── week02/
-│   ├── README.md
-│   └── assets/
-│
-├── week03/
-│   ├── README.md
-│   └── assets/
-│
-├── week04/
-│   ├── README.md
-│   └── assets/
-│
-├── week05/
-│   ├── README.md
-│   └── assets/
-│
-├── week06/
-│   ├── README.md
-│   └── assets/
-│
-├── week07/
-│   ├── README.md
-│   └── assets/
-│
-├── week08/
-│   ├── README.md
-│   └── assets/
-│
-└── LICENSE (opsional)
+├── week-01/
+│   └── README.md
+├── week-02/
+│   └── README.md
+├── week-03/
+│   └── README.md
+├── week-04/
+│   └── README.md
+├── week-05/
+│   └── README.md
+├── week-06/
+│   └── README.md
+├── week-07/
+│   └── README.md
+└── week-08/
+    └── README.md
